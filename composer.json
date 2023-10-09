@@ -1,15 +1,13 @@
 {
-    "name": "nategood/httpful",
+    "name": "Brandin/httpful",
     "description": "A Readable, Chainable, REST friendly, PHP HTTP Client",
-    "homepage": "http://github.com/nategood/httpful",
+    "homepage": "http://github.com/Brandin/httpful",
     "license": "MIT",
     "keywords": ["http", "curl", "rest", "restful", "api", "requests"],
-    "version": "0.3.2",
+    "version": "1.0.0",
     "authors": [
         {
-            "name": "Nate Good",
-            "email": "me@nategood.com",
-            "homepage": "http://nategood.com"
+            "name": "Brandin Arsenault",
         }
     ],
     "require": {
